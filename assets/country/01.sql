@@ -1,0 +1,26 @@
+SET search_path TO A2;
+
+INSERT INTO country VALUES (794951, 'Russia');
+INSERT INTO country VALUES (509184, 'Canada');
+INSERT INTO country VALUES (556654, 'China');
+INSERT INTO country VALUES (901327, 'United States');
+INSERT INTO country VALUES (665971, 'Brazil');
+INSERT INTO country VALUES (226266, 'Australia');
+INSERT INTO country VALUES (103573, 'India');
+INSERT INTO country VALUES (639442, 'Argentina');
+INSERT INTO country VALUES (790554, 'Kazakhstan');
+INSERT INTO country VALUES (770204, 'Algeria');
+INSERT INTO country VALUES (970548, 'Denmark');
+INSERT INTO country VALUES (288639, 'Greenland');
+INSERT INTO country VALUES (363382, 'Saudi Arabia');
+INSERT INTO country VALUES (884286, 'Mexico');
+INSERT INTO country VALUES (538671, 'Indonesia');
+INSERT INTO country VALUES (500931, 'Sudan');
+INSERT INTO country VALUES (663573, 'Libya');
+INSERT INTO country VALUES (364108, 'Iran');
+INSERT INTO country VALUES (933047, 'Mongolia');
+INSERT INTO country VALUES (194357, 'Peru');
+INSERT INTO country VALUES (359426, 'Chad');
+INSERT INTO country VALUES (645800, 'South Africa');
+INSERT INTO country VALUES (801454, 'Columbia');
+INSERT INTO country VALUES (372512, 'Egypt');

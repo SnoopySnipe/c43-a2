@@ -1,0 +1,52 @@
+Run Test -- constructor()
+true
+Run Test -- connectDB()
+true
+true
+Run Test -- disconnectDB()
+true
+true
+true
+Run Test -- insertPlayer()
+true
+true
+true
+true
+true
+true
+true
+true
+Run Test -- getChampions()
+true
+true
+true
+Run Test -- getCourtInfo()
+true
+true
+Run Test -- chgRecord()
+true
+true
+true
+true
+true
+true
+Run Test -- deleteMatchBetween()
+true
+true
+true
+true
+true
+true
+Run Test -- listPlayerRanking()
+true
+false
+true
+Run Test -- findTriCircle()
+true
+true
+true
+true
+Run Test -- updateDB()
+true
+true
+true
