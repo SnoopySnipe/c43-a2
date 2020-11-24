@@ -32,3 +32,5 @@ $ bash run_test.sh "mark.txt"
 This will generate a ``mark.txt`` file in the relative directory showing the result of all test cases passed.
 
 **Notice:** The weighting listed inside ``test-cases.md`` is arbitrary. The grade you recieve on ``MarkUs`` may have a different weighting.
+
+**Notice:** All student submissions are ran with a ``timeout of 5 seconds`` before their process is killed.
